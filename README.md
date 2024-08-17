@@ -1,5 +1,5 @@
-## NAME:ROHITH V
-## REG NO:212223040174
+## NAME:GOKUL SHARAN R
+## REG NO:212223040052
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
